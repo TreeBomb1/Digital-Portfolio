@@ -11,7 +11,7 @@ Evidence:
 
 Reflection (Using STAR Technique):
 
-Situation: During our second-year group project, we needed to delegate research tasks and consolidate our findings into a single presentation. Miscommunication initially led to some team members working on overlapping sections.
+Situation: During our third-year group project, we needed to delegate research tasks and consolidate our findings into a single presentation. Miscommunication initially led to some team members working on overlapping sections.
 
 Task: My role was to establish clear communication channels and ensure everyone understood their specific responsibilities and deadlines.
 
@@ -26,20 +26,18 @@ Evidence:
 
 Reflection (Using STAR Technique):
 
-Situation: I was preparing for a mock interview for a hypothetical Junior Support Specialist role. I knew I had the technical knowledge but was nervous about articulating my experiences effectively.
+Situation: I was preparing for a mock interview for a Junior Software Developer internship. I knew I had the technical knowledge but was nervous about articulating my experiences effectively.
 
 Task: My goal was to present my skills and past experiences in a structured, confident manner that directly related to the job requirements.
 
 Action: I researched the company and the role thoroughly. I practiced using the STAR technique to frame my answers, focusing on a specific instance where I troubleshooted a software issue for a classmate. I recorded myself answering questions to review my body language and clarity of speech.
 
-Result: During the mock interview, I was able to answer questions confidently without rambling. The interviewer specifically complimented the structure of my answers, noting they were clear and demonstrated relevant problem-solving skills. This exercise built my confidence and showed me the power of preparation and structured storytelling.
+Result: During the mock interview, I was able to answer questions confidently without rambling. This exercise built my confidence and showed me the power of preparation and structured storytelling.
 
 ## 3. Mock Interview
 Evidence:
 
-Mock Artefact: A link to a 5-minute video recording of my mock interview. (Note: For the portfolio, you could upload a unlisted YouTube/Vimeo video or a video file to your repo). [Example: Mock_Interview_Video.mp4]
-
-Mock Artefact: The feedback form received from the mock interviewer. [Example: Mock_Interview_Feedback_Form.pdf]
+https://github.com/TreeBomb1/Mock-interview/blob/main/mockint%20(3).mp4
 
 Reflection (Using STAR Technique):
 
@@ -63,9 +61,9 @@ Situation: I recognized that building a professional network is key to career gr
 
 Task: My goal was to create a professional online presence and begin building a network of peers and industry professionals.
 
-Action: I created a complete and polished LinkedIn profile. I then connected with my lecturers, classmates, and alumni from CPUT. I followed leading tech companies and joined groups related to software development and IT support. I engaged with content by commenting thoughtfully on a post about cybersecurity trends.
+Action: I created a complete and polished LinkedIn profile. I then connected with my classmates, and alumni from CPUT. I followed leading tech companies and joined groups related to software development and IT support. I engaged with content by commenting thoughtfully on a post about software development trends.
 
-Result: I have grown my network to over 50 relevant connections. A CPUT alumnus even messaged me with advice on preparing for the job market. This experience demystified professional networking and showed me it's about building genuine, professional relationships online.
+Result: I have grown my network to over 25 relevant connections. This experience demystified professional networking and showed me it's about building genuine, professional relationships online.
 
 ## 5. Workplace Etiquette
 Evidence:
@@ -81,4 +79,4 @@ Task: My task was to help mediate the situation respectfully and ensure the team
 
 Action: I requested a short break to allow everyone to cool down. I then facilitated a discussion where each person could state their viewpoint without interruption. I focused the conversation on the project's goal rather than personal opinions and suggested we list the pros and cons of each approach objectively.
 
-Result: The team agreed on a hybrid approach that incorporated the best elements from both ideas. The conflict was resolved amicably, and we successfully met our deadline. This taught me that workplace etiquette isn't just about manners; it's about using emotional intelligence and professional conduct to navigate challenges and maintain team harmony.
+Result: The team agreed on a hybrid approach that incorporated the best elements from both ideas. The conflict was resolved amicably, and we successfully met our deadline. This taught me that workplace etiquette isn't just about manners, it's about using emotional intelligence and professional conduct to navigate challenges and maintain team harmony.
