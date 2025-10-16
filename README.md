@@ -1,5 +1,4 @@
-# Digital-Portfolio
-# Title: My-Portfolio
+# Title: Digital-Portfolio
 # Name: Mahlase Kgoputjo Mashoto
 # Student number:230549063
 
